@@ -1,0 +1,20 @@
+101
+Pete Bambenek
+10.0
+140.0
+102
+Tim Carroll
+20.0
+85.0
+103
+Matt Volker
+30.0
+145.0
+104
+Kathy Clickner
+40.0
+75.0
+105
+Eric Ostrander
+10.0
+16.0
